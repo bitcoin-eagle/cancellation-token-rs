@@ -1,12 +1,12 @@
 [package]
-name = "cancellation-token"
+name = "cancellation-token-eagle"
 version = "0.1.0"
 edition = "2021"
 authors = ["frozenlib"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/frozenlib/cancellation-token-rs"
-documentation = "https://docs.rs/cancellation-token/"
+repository = "https://github.com/bitcoin-eagle/cancellation-token-rs"
+documentation = "https://docs.rs/cancellation-token-eagle/"
 keywords = ["cancel", "graceful", "shutdown", "signal"]
 categories = ["asynchronous"]
 description = "A Rust implementation of C#'s CancellationToken API."
